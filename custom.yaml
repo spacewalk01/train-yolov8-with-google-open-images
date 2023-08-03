@@ -1,0 +1,7 @@
+names:
+- Tortoise
+nc: 1
+path: E:/open-images
+test: test.txt
+train: train.txt
+val: validation.txt
